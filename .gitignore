@@ -1,0 +1,4 @@
+.pio
+.claude/*.local.*
+.vscode
+include/secrets.h
